@@ -10,7 +10,7 @@ import UIKit
 import NVActivityIndicatorView
 
 class ViewController: UIViewController{
-    
+    //
     @IBOutlet weak var dateText: UITextField!
     @IBOutlet weak var contentText: UITextField!
     @IBOutlet weak var datePickerView: UIPickerView!
