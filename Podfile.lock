@@ -1,0 +1,36 @@
+PODS:
+  - Kanna (5.2.2)
+  - NVActivityIndicatorView (5.0.1):
+    - NVActivityIndicatorView/Base (= 5.0.1)
+  - NVActivityIndicatorView/Base (5.0.1)
+  - Realm (5.3.3):
+    - Realm/Headers (= 5.3.3)
+  - Realm/Headers (5.3.3)
+  - RealmSwift (5.3.3):
+    - Realm (= 5.3.3)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Kanna
+  - NVActivityIndicatorView
+  - RealmSwift
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Kanna
+    - NVActivityIndicatorView
+    - Realm
+    - RealmSwift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Kanna: 2c4eddaaa4bfb9a1ed19e53c0b3d42ef02838046
+  NVActivityIndicatorView: 738e843cb8924e9e4fc3e559d0728031624bf860
+  Realm: 2d57ea355bf8ca2a0964d6bfb38d28d7ff2addf6
+  RealmSwift: 0a709536ecea30eea1d3c514f6ade2ed078dee3c
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 0f47755d57326d442abe56d36a2a660111fc819e
+
+COCOAPODS: 1.8.4
